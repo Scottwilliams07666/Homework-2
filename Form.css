@@ -1,0 +1,57 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #1fbae9;
+    width: 764px;
+    margin: auto;
+    padding: 25px;
+}
+
+*{box-sizing: border-box
+
+}
+
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+
+
+  .topnav {
+    float: right;
+    position: relative;
+    padding: 5px 10px;
+    display: inline;
+    top: -57px;
+    margin-right: 50px;
+  }
+
+  .foot{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgray;
+    color: white;
+    text-align: center;  
+    border-top: #9ce5a2 solid 5px;
+  }
+
+
+

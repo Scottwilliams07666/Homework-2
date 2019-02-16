@@ -1,0 +1,78 @@
+body{
+    background-image: url(Jordan.jpg);
+    color:  #fff;
+}
+
+
+.container-fluid{
+    border: 0;
+    color: black;
+    background: #fffdfe;
+    margin-top: 33px;
+    margin-left: 321px;
+    max-width: 677px;
+    padding: 10px;
+}
+
+.container {
+    max-width: 677px;
+}
+
+.head{
+    background-color: #fff
+}
+
+.name{
+    border: 5px;
+    background-color:green;
+    padding: 0px;
+    overflow: auto;
+
+}
+
+
+
+ .story{
+    color: black;
+    border-bottom: 1px solid black;
+}
+
+
+
+.head .name{
+    background-color:red;
+    margin-left: 320px;
+    margin-right: 806px;
+}
+
+.links {
+    position: relative;
+    padding: 5px 10px;
+    display: inline;
+    top: -40px;
+
+}
+
+.float {
+    float: right;                                                                                                                                                                                                                                                                                                                                         
+}
+
+.img-Scott{
+    Width: 130px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgray;
+    color: white;
+    text-align: center;  
+    border-top: #9ce5a2 solid 5px;
+}
+
+

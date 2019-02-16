@@ -1,0 +1,65 @@
+body{
+    background-image: url(boxes.jpg);
+}
+
+.title{
+    
+    background-color: #74e2a2;
+    margin:25px;
+    Width: 15%;
+}
+
+
+.title{
+    background-color: white;
+    width: 100%;
+}
+
+.tags{
+    float: right;
+    position: relative;
+    padding: 5px 10px;
+    display: inline;
+    top: -57px;
+    margin-right: 50px;
+}
+
+
+.img{
+    width: 300px;
+    border-radius: 50%;
+}
+
+.grid-container {
+    display: grid;
+    grid-gap: 50px 70px;
+    grid-template-columns: auto auto auto;
+    padding: 50px;
+  }
+
+
+  .polaroid {
+    width: 100%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    border-radius: 50%;
+}
+    
+.banner {
+    text-align: center;
+    padding: 10px 20px;
+  }
+
+
+.foot{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgray;
+    color: white;
+    text-align: center;  
+    border-top: #9ce5a2 solid 5px;
+}
+
