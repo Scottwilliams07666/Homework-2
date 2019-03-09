@@ -1,5 +1,11 @@
 body{
-    background-image: url(boxes.jpg);
+    background-image: url(../images/boxes.jpg);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
 }
 
 .title{

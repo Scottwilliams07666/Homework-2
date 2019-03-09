@@ -1,8 +1,13 @@
 body{
-    background-image: url(Jordan.jpg);
+    background-image: url(../images/Jordan.jpg);
     color:  #fff;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
 
 .container-fluid{
     border: 0;
@@ -32,7 +37,7 @@ body{
 
 
 
- .story{
+.story{
     color: black;
     border-bottom: 1px solid black;
 }
